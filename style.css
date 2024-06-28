@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+.colored-text {
+  color: white;
+}
+.colored-background {
+  background-color: yellow;
+  padding: 5px;
+}
+.background {
+  background-image: url("https://i.pinimg.com/736x/55/31/7d/55317dbfe336732a8c2b5afec21a7058.jpg");
+  background-size: cover;
+}
+.margin-top {
+  margin-top: 20px;
+}
+.margin-bottom {
+  margin-bottom: 30px;
+}
+.margin-left-right {
+  margin: 10px;
+}
+.padding-text {
+  padding: 15px;
+  border: 1px solid #ccc;
+}
+.bordered {
+  border: 2px solid black;
+  padding: 10px;
+}
